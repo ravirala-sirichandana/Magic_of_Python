@@ -16,5 +16,5 @@ for i in foods:
     print(i,end=' ')
 print()
 for x in prices:
-    total+=p
+    total+=x
 print(f'Your total price is ${total}')
