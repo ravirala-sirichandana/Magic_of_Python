@@ -1,7 +1,7 @@
 # Magic of Python 
 ## Overview
 
-Magic of Python is a well-organized collection of Python programs developed during ProCode Developer Sessions.
+Magic of Python is a well-organized collection of Python programs.
 This repository focuses on strengthening Python fundamentals, problem-solving skills, and real-world logic building through hands-on mini projects and applications.
 The programs range from basic beginner concepts to interactive games, utility applications, and an API-based project, all structured in a clean and professional manner.
 
