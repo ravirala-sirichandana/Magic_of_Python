@@ -73,7 +73,7 @@ External Libraries (for API project, if applicable)
 ## How to Run the Programs
 
 Clone the repository:
-git clone https://github.com/your-username/Magic-of-Python.git
+git clone https://github.com/ravirala-sirichandana/Magic-of-Python.git
 
 Navigate to the required folder:
 cd Magic-of-Python/games
